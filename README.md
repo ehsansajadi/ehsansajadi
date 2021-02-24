@@ -12,4 +12,4 @@
 
 </details>
 
-[![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:elahe.dstn@gmail.com)
+[![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:e.sajadi1379@gmail.com@gmail.com)
