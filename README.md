@@ -5,8 +5,9 @@
 
 <br>
 
-![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsansajadi&theme=dracula&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsansajadi&theme=dracula)
+![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsansajadi&theme=dracula&show_icons=true)
+
 
 
 </details>
