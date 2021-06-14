@@ -5,8 +5,11 @@
 
 <br>
 
+![](https://visitor-badge.glitch.me/badge?page_id=ehsansajadi.ehsansajadi)
+    
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsansajadi&theme=dracula)
-![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsansajadi&theme=dracula&show_icons=true)
+![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsansajadi&line_height=40&theme=dracula&show_icons=true)
 
 
 
