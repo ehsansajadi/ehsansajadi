@@ -30,3 +30,6 @@
 <br><br>
 
 [![](https://img.shields.io/badge/-gmail-lightgray?style=for-the-badge&logo=gmail)](mailto:e.sajadi1379@gmail.com@gmail.com)
+<!-- [![](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/joinchat/DYKH-0G_8hsDDoN_iE8ZlA)   -->
+<!-- [![](https://img.shields.io/endpoint?color=neon&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fsjprojects)](https://telegram.dog/sjprojects) -->
+
